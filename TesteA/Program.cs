@@ -12,6 +12,7 @@ namespace TesteA
         {
             var a = 1;
             var teste = 333;
+            var z = 1;
         }
     }
 }
