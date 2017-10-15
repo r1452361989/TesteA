@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TesteA
 {
-    class Program
+    class ProgramX
     {
-        static void Main(string[] args)
+        static void MainX(string[] args)
         {
             var a = 1;
             var xx = 2;
