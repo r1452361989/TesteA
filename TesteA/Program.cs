@@ -10,6 +10,7 @@ namespace TesteA
     {
         static void Main(string[] args)
         {
+            var a = 1;
         }
     }
 }
